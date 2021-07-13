@@ -1,0 +1,256 @@
+家	jiā （family, home）
+几	jǐ （how many, some, a few)
+两	liǎng (two, a couple of)
+妹	mèi（younger sister)
+和	hé （and）
+做	zuò （to do, to make)
+律	lǜ（law, rule)
+都	dōu （both, all)
+医	yī （medicine)
+白	bái （white, a name)
+英	yīng（flower, hero, britian)
+爱	ài（love, to love)
+哥哥	gēge （older brother)
+妹妹	mèimei （younger sister)
+大姐	dàjiě（eldest sister）
+二姐	èrjiě （second oldest sister）
+工作	gōngzuò （job, to work)
+律师	lǜshī （lawyer）
+英文	Yīngwén （English language)
+大学生	dàxuéshēng （college student）
+大学	dàxué （university）
+医生	yīshēng （doctor）
+白英爱	Bái Yīng'ài （a personal name)
+那	nà （that）
+的	de（a possessive particle used after pronoun/noun)
+照	zhào （photograph; to illuminate, to shine)
+片	piàn （flat, thin piece)
+这	zhè （this）
+爸	bà （dad, father）
+妈	mā （mom, mother）
+个	gè （measure word for many common everyday objects)
+孩	hái（child)
+谁	shéi （who)
+她	tā （she, her）
+男	nán （male)
+弟	dì（younger brother)
+他	tā （he, him)
+哥	gē （older brother)
+儿	ér （child, son）
+有	yǒu （to have, to exist)
+没	méi （not）
+高	gāo (姓，high, tall)
+文	wén （written language, script)
+照片	zhàopiàn (picture)
+爸爸	bàba (father)
+妈妈	māma (mother)
+女	nǚ (woman)
+孩子	háizi (children)
+大哥	dàgē （older brother）
+儿子	érzi (son)
+女儿	nǚ'ér （daughter）
+高文中	Gāo Wénzhōng (name)
+你	nǐ(you)
+好	hǎo (fine, good, nice, OK)
+请	qǐng (please, to treat or to invite)
+问	wèn (to ask）
+贵	guì (honorable, expensive)
+姓	xìng (ones family name is... (family name))
+我	wǒ (me, I)
+呢	ne (question particle)
+姐	jiě (older sister)
+叫	jiào (to be called)
+什	shén (what)
+么	me (question particle)
+名	míng (name)
+字	zì (character)
+先	xiān (first)
+生	shēng (to give birth, to be born)
+李	lǐ (a surname, plum)
+友	yǒu (friend)
+王	wáng (a surname, king)
+朋	péng (friend)
+小姐	xiǎojiě （Miss; young lady)
+什么	shénme（what）
+先生	xiānsheng (Mr., husband, teacher)
+李友	Lǐ Yǒu (a name)
+王朋	Wáng Péng (a name)
+零	líng （zero）
+一	yī （one）
+二	èr （two）
+三	sān （three）
+四	sì （four）
+五	wǔ （five）
+六	liù （six）
+七	qī （seven）
+八	bā （eight）
+九	jiǔ （nine）
+十	shí （ten）
+是	shì (to be)
+老	lǎo （old）
+师	shī （master）
+吗	ma (question particle)
+不	bù （no)
+学	xué （to study）
+也	yě (too，also)
+人	rén (people, person)
+中	zhōng（center, middle）
+国	guó（country, nation)
+北	běi （north)
+京	jīng（capital city)
+美	měi （beautiful）
+纽	niǔ (knob, button)
+约	yuē （ageement, appointment)
+老师	lǎoshī (teacher)
+学生	xuéshēng (student)
+中国	Zhōngguó (China, middle country)
+北京	Běijīng (Beijing)
+美国	Měiguó （America）
+纽约	Niǔyuē （New York）
+现	xiàn (now)
+在	zài （to be present; at (a place))
+刻	kè （quarter (of an hour))
+事	shì （matter, affair, event)
+很	hěn （very）
+忙	máng （busy)
+明	míng （bright)
+为	wèi （for）
+因	yīn （cause, reason; because)
+同	tóng （same)
+认	rèn （to recognize)
+识	shí （to recognize)
+现在	xiànzài （now)
+今天	jīntiān （today）
+明天	míngtiān （tomorrow）
+晚饭	wǎnfàn （dinner, supper)
+为什么	wèishénme （why)
+因为	yīnwèi （because)
+同学	tóngxué （classmate)
+认识	rènshi （to be acquainted with, to recognize)
+朋友	péngyou （friend)
+九月	jiǔyuè （September）
+月	yuè （month)
+十二	shí'èr（twelve)
+号	hào （measure word for position in a numerical series, day of the month)
+星期	xīngqī（week)
+星期四	xīngqīsì （Thursday）
+天	tiān （day)
+生日	shēngrì （birthday）
+生	shēng （to give birth, to be born)
+日	rì （day; the sun）
+今年	jīnnián （this year）
+年	nián （year）
+多	duō (how many/much, to what extent)
+大	dà (big, old)
+十八	shíbā (18)
+岁	suì (year (of age))
+半	bàn （half; half an hour）
+晚上	wǎnshang （evening, night）
+点	diǎn（hour)
+吃	chī（eat)
+饭	fàn (cooked rice, meal)
+怎么样	zěnmeyàng （how bout dat)
+太。。。了	tài...le （too， extremely)
+谢谢	xièxie（to thank)
+喜欢	xǐhuan （to like)
+菜	cài （dishes; cuisine)
+还是	háishi （or）
+可是	kěshì（but)
+我们	wǒmen （we)
+见	jiàn （to see）
+再见	zàijiàn （goodbye)
+再	zài （again）
+英国	Yīngguó（Britain）
+呀	ya (used to soften a question)
+进	jìn (to enter)
+快	kuài (fast, quick; quickly)
+进来	jìn lai (to come in)
+来	lái (to come)
+介绍	jièshào (to introduce)
+一下	yí xià (once, a bit)
+高兴	gāoxìng (happy, pleased)
+漂亮	piàoliang (pretty)
+坐	zuò (to sit)
+在	zài (at, in, on)
+哪儿	nǎr (where)
+学校	xuéxiào (school)
+喝	hē (to drink)
+点儿	diǎr (a little, a bit, some)
+茶	chá (tea)
+咖啡	kāfēi (coffee)
+吧	ba (a sentence-final particle)
+可乐	kělè (cola)
+水	shuǐ (water)
+玩儿	wánr (to have fun, to play)
+了	le (a dynamic particle)
+图书馆	túshūguăn (library$
+一起	yìqǐ (together)
+聊天儿	liáo tiānr (to chat)
+聊	liáo (to chat)
+才	cái (not until, only then)
+回家	huí jiā (to go home)
+回	huí (to return)
+要	yào (to want)
+瓶	píng (measure word for bottles)
+可以	kěyǐ (can, may)
+对不起	duìbuqǐ (sorry)
+给	gěi (to give)
+杯	bēi (measure word for cup and glass)
+小	xiǎo (small, little)
+好久	hǎo jiǔ (a long time)
+好	hǎo (very)
+久	jiǔ (long, relating to time)
+不错	búcuò (pretty good)
+错	cuò (wrong)
+想	xiǎng (to want to, would like to)
+觉得	juéde (to feel, to think)
+有意思	yoǔ yìsi (interesting)
+意思	yìsi (meaning)
+只	zhǐ (only)
+睡觉	shuì jiào (to sleep)
+睡	shuì, v (to sleep)
+算了	suàn le (forget it, never mind)
+找	zhǎo (to look for)
+别人	biérén (other people, another person)
+别的	bié de (other)
+周	zhōu (week; cycle)
+末	mò (end)
+打	dǎ (to hit)
+球	qíu (ball)
+看	kàn (to watch, to look, to read)
+电	diàn (electricity)
+视	shì (vision)
+唱	chàng (to sing)
+歌	gē (song)
+音	yīn (sound)
+对	duì (right, correct)
+周末	zhōumò (weekend)
+打球	dǎ qíu (to play ball)
+电视	diànshì (television)
+唱歌	chàng gē (to sing a song)
+跳舞	tiào wǔ (to dance)
+听	tīng (to listen)
+音乐	yīnyuè (music)
+书	shū (book)
+电影	diànyǐng (movie)
+去	qù (to go)
+跳	tìao (to jump)
+舞	wǔ (to dance; dance)
+乐	yuè (music)
+影	yǐng (shadow)
+时	shí (time)
+候	hòu (time, season; await)
+常	cháng (often)
+外	wài (outside)
+客	kè (guest)
+昨	zuó (yesterday)
+所	suǒ (place)
+以	yǐ (with)
+有的	yǒude (some)
+时候	shíhou (a point in or duration of time, moment)
+常常	chángcháng (often)
+那	nà (in that case, then)
+外国	wàiguó (foriegn country)
+请客	qǐng kè (to invite someone, to play the host)
+昨天	zuótiān (yesterday)
+所以	suǒyǐ (so)
