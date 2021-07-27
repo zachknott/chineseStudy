@@ -1,0 +1,1 @@
+source chineseEnv/bin/activate

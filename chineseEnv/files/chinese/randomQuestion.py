@@ -65,16 +65,17 @@ def outputSentences(fileArray,fileOut):
 
 if __name__ == "__main__":
     fileArray = []
-    fileArray.append(open("./dictBank/sentencePatterns.txt","r"))
-    fileArray.append(open("./dictBank/finalReviewQuestions","r"))
-    fileOut = open("./quizOut/sentenceOutput.txt", "w")
+    fileArray.append(open("chineseEnv/files/chinese/dictBank/finalReviewQuestions.txt","r"))
+    fileOut = open("chineseEnv/files/chinese/quizOut/sentenceOutput.txt", "w")
  
-    #outputSentences(fileArray,fileOut) 
+    outputSentences(fileArray,fileOut) 
     
-    try:
-        sentenceGame(fileArray)
-    except:
-        
-        print("ERROR")
+    
 
-    print("\n--- Game Over ---\n")
+    #try:
+    #    sentenceGame(fileArray)
+    #except:
+    #    
+    #    print("ERROR")
+
+    #print("\n--- Game Over ---\n")
