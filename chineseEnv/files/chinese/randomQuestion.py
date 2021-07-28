@@ -1,8 +1,8 @@
 import random as r
-from typing import Counter
 import sys
-sys.path.append('/usr/local/lib/python3.8/dist-packages')
-from pypinyin import pinyin, lazy_pinyin, Style
+
+import googletrans as gt
+from googletrans import Translator
 
 def sentenceGame(fileArray):
     sentences = []
@@ -31,7 +31,7 @@ def sentenceGame(fileArray):
                 used[x] = 1
 
         print("\n" + sentences[x] + "\n")
-        print(pinyin(sentences[x]))
+       
         usedSum = 0
         for x in used:
             usedSum = usedSum + x
@@ -57,8 +57,13 @@ def outputSentences(fileArray,fileOut):
 
             
     count = 0
+    trans = Translator()
+    print("Please Wait :)")
     for sentence in sentences:
-        fileOut.write(sentence.strip() +"\\" + "(answer)" + "\n")
+        sen = sentence.strip()
+        translation = trans.translate(sen, src = "zh-cn")
+        #print(translation)
+        fileOut.write( sen +"\\" + translation.text + "\n")
         count += 1
     print("Lines Written: " + str(count))
 
@@ -70,6 +75,10 @@ if __name__ == "__main__":
  
     outputSentences(fileArray,fileOut) 
     
+    for file in fileArray:
+        file.close
+
+    fileOut.close
     
 
     #try:
