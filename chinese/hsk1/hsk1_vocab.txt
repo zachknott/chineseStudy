@@ -1,0 +1,127 @@
+你;you
+好;good
+您;you(formal)
+你们;y'all
+对不起;It doesn't matter
+叫;to be called
+什么;what
+名字;name
+我;I, me
+李月;name
+是;to be
+老师;teacher
+吗;question particle
+学生;student
+人;human
+中国;China
+美国;America
+打开书;open your book
+情大声读;read aloud
+再读一遍;read again
+一起读;read together
+有问题吗;any questions?
+她;she, her
+谁;who
+汉语;chinese(language)
+哪;which
+国;country
+呢;question particle
+他;he, him
+同学;classmate
+朋友;friend
+零;0
+一;1
+二;2
+三;3
+四;4
+无;5
+六;6
+七;7
+八;8
+九;9
+十;10
+百;100
+一千;1,000
+万;10,000
+十万;100,000
+家;family
+有;to have
+口;mw people
+女儿;daughter
+几;how many
+岁;year
+了;change or new circumstance
+今年;this year
+多;degree or extent
+大;(of age) old
+年纪;age, formal
+会;can, to be able to 
+说;to speak, to say
+妈妈;mom
+菜;food, dish
+很;very
+好吃;delicious
+做;to make
+写;to write
+汉子;chinese character
+字;character
+怎么;how
+读;to read
+这;this
+请;please
+问;to ask, to enquire
+今天;today
+号;mw date of month
+月;month
+星期;week
+昨天;yesterday
+明天;tomorrow
+去;to go
+学校;school
+看;to look at, to watch
+书;book
+想;to want, to like
+喝;to drink
+茶;teacher
+吃;to eat
+米饭;cooked rice
+下午;afternoon
+商店;shop
+买;to buy, to purchase
+个;classic measure word
+杯子;cup, glass
+多少;how many, how much
+钱;money
+块;mw money
+那;that
+小;small
+猫;cat
+在;to be in/on/at
+那儿;there
+狗;dog
+下面（下）;under, below
+哪儿;where
+工作;to work, job
+儿子;son
+医院;hospital
+医生;doctor
+爸爸;father
+谢谢;to thank
+不;no, not
+不客气;you're welcome
+再见;see you again
+桌子;desk, table
+上;up, above
+电脑;computer
+和;and
+本;mw book
+里;inside, inner, interior
+前面;front
+后面;back
+这儿;here
+没有（没）;there is not, do not have
+能;can, may
+做;to sit, to be seated
+
+
+
