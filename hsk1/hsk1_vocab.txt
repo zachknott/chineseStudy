@@ -122,6 +122,62 @@
 没有（没）;there is not, do not have
 能;can, may
 做;to sit, to be seated
-
-
+现在;now
+点;o'clock
+分;minute
+中午;noon
+吃饭;to eat a meal
+时候;time, moment
+回;to come, go back, return
+我们;we, us
+电影;film, movie
+住;to live, to stay
+前;before, earlier than
+北京;beijing, capital of China
+天气;weather
+怎么样;(indicating nature) how
+太...了;too, excessively
+热;hot
+冷;cold
+下雨;to rain
+小姐;miss, young lady
+来;to come
+身体;body
+爱;to like, to love
+些;some, a few
+水果;fruit
+水;water
+喂;hello, hey
+也;also, too
+学习（学）;to study, to learn
+上午;morning
+睡觉;to sleep
+电视;television
+喜欢;to like, to be fond
+东西;thing, stuff
+一点儿;a few, a little
+苹果;apple
+看见;to see
+先生;mr., sir
+开;to drive
+车;car, vehicle
+回来;to come back
+分钟;minute
+后;after, afterwards, later
+衣服;clothes
+漂亮;beautiful, pretty
+啊;a modal particle at end of sentence for confirmation or defense
+少;little, few
+不少;quite a few, many
+这些;these
+都;both, all
+认识;to meet, to know
+年;year
+大学;college, university
+饭店;hotel, resturant
+吃租车;taxi, cab
+一起;together
+高兴;glad, happy
+听;to listen
+飞机;airplane
 
